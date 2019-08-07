@@ -34,6 +34,7 @@ class RequirementTest extends Component {
       >
         <View
           style={styles.viewSearchBar}
+          
         >
           <Image
             style={styles.imgIconSearch}
